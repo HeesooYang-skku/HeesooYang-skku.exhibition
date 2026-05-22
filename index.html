@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Exhibition Title Language Dashboard</title>
+  <style>
+    :root {
+      --bg: #0f1117;
+      --card: rgba(255, 255, 255, 0.08);
+      --card-border: rgba(255, 255, 255, 0.16);
+      --text: #f4f4f5;
+      --muted: #b7bac7;
+      --accent: #b9a7ff;
+      --accent-2: #7de2d1;
+      --shadow: 0 24px 80px rgba(0, 0, 0, 0.35);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      color: var(--text);
+      background:
+        radial-gradient(circle at 12% 12%, rgba(185, 167, 255, 0.25), transparent 34%),
+        radial-gradient(circle at 86% 20%, rgba(125, 226, 209, 0.18), transparent 30%),
+        linear-gradient(135deg, #0f1117 0%, #171923 48%, #10131c 100%);
+      min-height: 100vh;
+    }
+    .container { width: min(1120px, calc(100% - 40px)); margin: 0 auto; padding: 56px 0 72px; }
+    header { display: flex; justify-content: space-between; align-items: center; gap: 24px; margin-bottom: 72px; }
+    .logo { font-size: 15px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+    .badge { border: 1px solid var(--card-border); background: rgba(255,255,255,0.06); padding: 10px 14px; border-radius: 999px; font-size: 14px; color: var(--muted); }
+    .hero { display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 44px; align-items: center; }
+    h1 { font-size: clamp(44px, 7vw, 84px); line-height: 0.95; letter-spacing: -0.06em; margin: 0 0 28px; }
+    .highlight { color: var(--accent); }
+    .lead { color: var(--muted); font-size: 20px; line-height: 1.7; max-width: 720px; margin: 0 0 32px; }
+    .button-row { display: flex; flex-wrap: wrap; gap: 14px; margin-top: 30px; }
+    a.button { display: inline-flex; align-items: center; justify-content: center; text-decoration: none; color: #10131c; background: linear-gradient(135deg, var(--accent), var(--accent-2)); padding: 14px 20px; border-radius: 14px; font-weight: 700; box-shadow: var(--shadow); }
+    a.button.secondary { color: var(--text); background: rgba(255,255,255,0.08); border: 1px solid var(--card-border); box-shadow: none; }
+    .preview-card { background: var(--card); border: 1px solid var(--card-border); border-radius: 30px; padding: 24px; box-shadow: var(--shadow); backdrop-filter: blur(18px); }
+    .mini-window { background: rgba(10,12,18,0.72); border: 1px solid rgba(255,255,255,0.12); border-radius: 22px; overflow: hidden; }
+    .window-bar { display: flex; gap: 8px; padding: 14px; border-bottom: 1px solid rgba(255,255,255,0.08); }
+    .dot { width: 11px; height: 11px; border-radius: 999px; background: rgba(255,255,255,0.34); }
+    .mock-content { padding: 22px; }
+    .metric-row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-bottom: 22px; }
+    .metric { padding: 14px; border-radius: 16px; background: rgba(255,255,255,0.08); }
+    .metric strong { display: block; font-size: 24px; margin-bottom: 4px; }
+    .metric span { color: var(--muted); font-size: 12px; }
+    .bar { height: 18px; border-radius: 999px; margin: 12px 0; background: linear-gradient(90deg, var(--accent), var(--accent-2)); }
+    .bar:nth-child(2) { width: 92%; }
+    .bar:nth-child(3) { width: 78%; opacity: 0.85; }
+    .bar:nth-child(4) { width: 62%; opacity: 0.72; }
+    .bar:nth-child(5) { width: 48%; opacity: 0.6; }
+    section { margin-top: 72px; }
+    h2 { font-size: 30px; letter-spacing: -0.03em; margin: 0 0 20px; }
+    .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+    .card { background: var(--card); border: 1px solid var(--card-border); border-radius: 24px; padding: 24px; min-height: 190px; }
+    .card h3 { margin: 0 0 12px; font-size: 20px; }
+    .card p, .note, li { color: var(--muted); line-height: 1.7; }
+    .keyword-list { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 18px; }
+    .keyword { border: 1px solid var(--card-border); color: var(--text); border-radius: 999px; padding: 8px 12px; font-size: 14px; background: rgba(255,255,255,0.06); }
+    .two-col { display: grid; grid-template-columns: 0.9fr 1.1fr; gap: 24px; }
+    code { display: block; white-space: pre-wrap; padding: 18px; border-radius: 18px; background: rgba(0,0,0,0.35); border: 1px solid rgba(255,255,255,0.12); color: #e8e8ee; line-height: 1.6; }
+    footer { margin-top: 72px; padding-top: 28px; border-top: 1px solid rgba(255,255,255,0.12); color: var(--muted); font-size: 14px; }
+    @media (max-width: 860px) {
+      header, .hero, .grid, .two-col { grid-template-columns: 1fr; }
+      header { align-items: flex-start; flex-direction: column; margin-bottom: 48px; }
+      .metric-row { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="logo">Huisoo Yang · Art Big Data Final Project</div>
+      <div class="badge">Streamlit Dashboard · Python · Pandas · Plotly</div>
+    </header>
+
+    <main class="hero">
+      <div>
+        <h1>Exhibition Title <span class="highlight">Language</span> Dashboard</h1>
+        <p class="lead">
+          A data visualization project that analyzes repeated words, language types, and conceptual patterns in Korean contemporary art exhibition titles.
+        </p>
+        <p class="note">
+          This project treats exhibition titles not only as labels, but also as institutional language that shapes the viewer’s first encounter with contemporary art.
+        </p>
+        <div class="button-row">
+          <a class="button" href="README.md">Read Project Description</a>
+          <a class="button secondary" href="exhibition_titles.csv">View Dataset</a>
+        </div>
+      </div>
+
+      <div class="preview-card">
+        <div class="mini-window">
+          <div class="window-bar"><div class="dot"></div><div class="dot"></div><div class="dot"></div></div>
+          <div class="mock-content">
+            <div class="metric-row">
+              <div class="metric"><strong>30</strong><span>Exhibitions</span></div>
+              <div class="metric"><strong>5</strong><span>Venues</span></div>
+              <div class="metric"><strong>Archive</strong><span>Top Keyword</span></div>
+            </div>
+            <div class="bar"></div><div class="bar"></div><div class="bar"></div><div class="bar"></div>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <section>
+      <h2>Project Focus</h2>
+      <div class="grid">
+        <div class="card"><h3>Word Frequency</h3><p>The dashboard shows which words and concepts appear most frequently in exhibition titles.</p></div>
+        <div class="card"><h3>Language Type</h3><p>It compares Korean-only, English-only, and Korean-English mixed titles.</p></div>
+        <div class="card"><h3>Venue Comparison</h3><p>It compares keyword patterns across museums and galleries to reveal institutional tendencies.</p></div>
+      </div>
+    </section>
+
+    <section class="two-col">
+      <div>
+        <h2>Keyword Categories</h2>
+        <p class="note">Because contemporary art titles often use poetic or abstract language, this project groups related words into broader conceptual categories.</p>
+        <div class="keyword-list">
+          <span class="keyword">Memory</span><span class="keyword">Body</span><span class="keyword">Time</span><span class="keyword">Space</span>
+          <span class="keyword">Image</span><span class="keyword">Nature</span><span class="keyword">Archive</span><span class="keyword">Relationship</span>
+        </div>
+      </div>
+      <div>
+        <h2>How to Run the Dashboard</h2>
+        <code>pip install -r requirements.txt
+
+streamlit run app.py</code>
+        <p class="note">This GitHub Pages screen is a landing page. The actual interactive dashboard runs through Streamlit.</p>
+      </div>
+    </section>
+
+    <section>
+      <h2>Research Questions</h2>
+      <div class="card">
+        <ul>
+          <li>What words appear most often in Korean contemporary art exhibition titles?</li>
+          <li>Do museums use more Korean, English, or mixed-language titles?</li>
+          <li>Are certain keyword categories more common in specific venues?</li>
+          <li>How do exhibition titles function as artistic and institutional language?</li>
+        </ul>
+      </div>
+    </section>
+
+    <footer>© 2026 Huisoo Yang. Final project for Art Big Data.</footer>
+  </div>
+</body>
+</html>
