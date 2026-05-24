@@ -35,7 +35,6 @@ KEYWORD_CATEGORIES = [
     "Other"
 ]
 
-@st.cache_data
 def load_data():
     df = pd.read_csv("exhibition_titles.csv")
     for col in COLUMNS:
