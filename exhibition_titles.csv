@@ -1,31 +1,76 @@
-﻿title,venue,year,language_type,main_keywords,keyword_category,category,url
-모두의 소장품,MMCA,2024,Korean-only,"collection, public",Archive,collection exhibition,https://www.mmca.go.kr
-올해의 작가상,MMCA,2023,Korean-only,"artist, institution",Institution,award exhibition,https://www.mmca.go.kr
-젊은 모색,MMCA,2022,Korean-only,"youth, future",Time,group exhibition,https://www.mmca.go.kr
-Dear Future Me,Ilmin Museum of Art,2023,English-only,"future, self, time",Time,group exhibition,https://ilmin.org
-SeMA 옴니버스,Seoul Museum of Art,2024,Mixed,"city, archive, narrative",Archive,group exhibition,https://sema.seoul.go.kr
-기억의 장면들,Arko Art Center,2022,Korean-only,"memory, image",Memory,group exhibition,https://www.arko.or.kr/artcenter
-몸의 기록,Arko Art Center,2023,Korean-only,"body, record, trace",Body,group exhibition,https://www.arko.or.kr/artcenter
-The Shape of Time,Art Sonje Center,2024,English-only,"time, shape, future",Time,group exhibition,https://artsonje.org
-공간의 감각,Seoul Museum of Art,2023,Korean-only,"space, sense, place",Space,group exhibition,https://sema.seoul.go.kr
-Archive Fever,Ilmin Museum of Art,2022,English-only,"archive, record, collection",Archive,group exhibition,https://ilmin.org
-이미지의 바깥,MMCA,2024,Korean-only,"image, outside, screen",Image,group exhibition,https://www.mmca.go.kr
-사이의 형태,Art Sonje Center,2023,Korean-only,"relationship, between, form",Relationship,group exhibition,https://artsonje.org
-Nature After Nature,Seoul Museum of Art,2022,English-only,"nature, ecology, future",Nature,group exhibition,https://sema.seoul.go.kr
-기록하는 몸,Ilmin Museum of Art,2024,Korean-only,"body, record, archive",Body,solo exhibition,https://ilmin.org
-Screen Memories,Arko Art Center,2024,English-only,"screen, memory, image",Image,group exhibition,https://www.arko.or.kr/artcenter
-도시의 리듬,Seoul Museum of Art,2023,Korean-only,"city, rhythm, space",Space,group exhibition,https://sema.seoul.go.kr
-Between Us,Art Sonje Center,2022,English-only,"relation, together, between",Relationship,group exhibition,https://artsonje.org
-시간의 피부,MMCA,2022,Korean-only,"time, body, skin",Body,solo exhibition,https://www.mmca.go.kr
-Future Archive 미래의 기록,Ilmin Museum of Art,2024,Mixed,"future, archive, record",Archive,group exhibition,https://ilmin.org
-장소와 기억,Arko Art Center,2023,Korean-only,"place, memory, space",Memory,group exhibition,https://www.arko.or.kr/artcenter
-Image and Body,Art Sonje Center,2024,English-only,"image, body, perception",Image,group exhibition,https://artsonje.org
-관계의 풍경,Seoul Museum of Art,2024,Korean-only,"relation, landscape, together",Relationship,group exhibition,https://sema.seoul.go.kr
-After the Garden,Ilmin Museum of Art,2023,English-only,"garden, nature, after",Nature,solo exhibition,https://ilmin.org
-흔적의 방,MMCA,2023,Korean-only,"trace, room, memory",Memory,group exhibition,https://www.mmca.go.kr
-Site and Sense,Arko Art Center,2022,English-only,"site, sense, space",Space,group exhibition,https://www.arko.or.kr/artcenter
-Collection as Method,MMCA,2024,English-only,"collection, method, archive",Archive,collection exhibition,https://www.mmca.go.kr
-감각의 지도,Art Sonje Center,2023,Korean-only,"sense, map, body",Body,group exhibition,https://artsonje.org
-Memory Room 기억의 방,Seoul Museum of Art,2022,Mixed,"memory, room, image",Memory,group exhibition,https://sema.seoul.go.kr
-"Ocean, Forest, Screen",Ilmin Museum of Art,2022,English-only,"ocean, forest, screen",Nature,group exhibition,https://ilmin.org
-아카이브의 사용법,Arko Art Center,2024,Korean-only,"archive, method, record",Archive,group exhibition,https://www.arko.or.kr/artcenter
+title,venue,year,language_type,main_keywords,keyword_category,category,url
+모두의 소장품,Seoul Museum of Art,2020.0,Korean-only,"collection, public",Archive,collection exhibition,https://sema.seoul.go.kr/kr/whatson/exhibition/detail?exNo=461329
+올해의 작가상,MMCA,2025.0,Korean-only,"artist, institution",Institution,award exhibition,https://www.mmca.go.kr
+젊은 모색,MMCA,2025.0,Korean-only,"youth, future",Time,group exhibition,https://www.mmca.go.kr
+Dear Amazon: 인류세 2019,Ilmin Museum of Art,2019.0,Mixed,"Anthropocene, ecology, nature",Nature,group exhibition,https://ilmin.org/exhibition/2019_dear-amazon/
+SeMA 옴니버스 《끝없이 갈라지는 세계의 끝에서》,Seoul Museum of Art,2024.0,Mixed,"city, archive, narrative",Archive,group exhibition,https://sema.seoul.go.kr/kr/whatson/exhibition/detail?exNo=1308679
+Spectrosynthesis Seoul,Art Sonje center,2026.0,English-only,"queer, gender, identity, body, norm, episode, relationship, community",Relationship,group exhibition,https://artsonje.org/exhibition/%ec%8a%a4%ed%8e%99%ed%8a%b8%eb%a1%9c%ec%8b%a0%ed%85%8c%ec%8b%9c%ec%8a%a4-%ec%84%9c%ec%9a%b8/
+아드리안 비야르 로하스: 적군의 언어,Art Sonje center,2025.0,Korean-only,"Anthropocene, future",Nature,solo exhibition,https://artsonje.org/exhibition/%ec%95%84%eb%93%9c%eb%a6%ac%ec%95%88-%eb%b9%84%ec%95%bc%eb%a5%b4-%eb%a1%9c%ed%95%98%ec%8a%a4-%ec%a0%81%ea%b5%b0%ec%9d%98-%ec%96%b8%ec%96%b4/
+오프 더 화이트: 주름과 망루,Ilmin Museum of Art,2026.0,Mixed,"museum, white cube, space",Space,group exhibition,https://ilmin.org/exhibition/2026_off-the-white-1/
+기.기.기(奇.己.氣): 동시대와 시행착오,Ilmin Museum of Art,2026.0,Korean-only,"contemporaneity, ruins, residue",Time,group exhibition,https://ilmin.org/exhibition/2026_gi-gi-gi/
+2025 ARKO Leap,Ilmin Museum of Art,2025.0,English-only,"place, space, location, memory",Space,group exhibition,https://ilmin.org/exhibition/%e3%80%8a2025-arko-leap%e3%80%8b/
+고요와 파동 Silence: Inside the Fame,Ilmin Museum of Art,2025.0,Mixed,"growth, identity, fame, silence, sound, image, relationship, self",Relationship,project exhibition,https://ilmin.org/exhibition/2025_silence-inside-the-fame/
+형상 회로: 동아미술제와 그 시대,Ilmin Museum of Art,2025.0,Korean-only,"image, figuration, representation, realism",Image,group exhibition,https://ilmin.org/exhibition/2025_figuration_circuits/
+다시 그린 세계 2025,Ilmin Museum of Art,2025.0,Korean-only,"Korean painting, tradition, modernity, continuity, discontinuity, reinterpretation, history",Time,project exhibition,https://ilmin.org/exhibition/2025_korean-traditional-painting_tokyo/
+시대복장,Ilmin Museum of Art,2025.0,Korean-only,"fashion, archive, contemporary culture, outfits, city, trend, visual culture",Archive,group exhibition,https://ilmin.org/exhibition/2025_iconclash/
+Hyper Yellow,Ilmin Museum of Art,2025.0,English-only,"memory, history, ruins, community, political practice, performance, silence",Memory,solo exhibition,https://ilmin.org/exhibition/2025_hyper-yellow/
+ 악셀 코쉬어: 용량(산–강),Art Sonje center,2026.0,Korean-only,"site-specific, garden, studio, space, architecture, material, process",Space,solo exhibition,https://artsonje.org/exhibition/sca-%eb%a0%88%ec%a7%80%eb%8d%98%ec%8b%9c-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%a8-%ec%95%85%ec%85%80-%ec%bd%94%ec%89%ac%ec%96%b4-%ec%9a%a9%eb%9f%89-%ec%82%b0-%ea%b0%95/
+Hiking,Art Sonje center,2025.0,English-only,"city, walking, space, boundary, image, materiality, text, dialogue",Space,group exhibition,https://artsonje.org/exhibition/%ed%95%98%ec%9d%b4%ed%82%b9/
+오프사이트 2: 열한 가지 에피소드,Art Sonje center,2025.0,Mixed,"queer, gender, identity, body, norm, episode, relationship, community",Relationship,group exhibition,https://artsonje.org/exhibition/%ec%98%a4%ed%94%84%ec%82%ac%ec%9d%b4%ed%8a%b8-2-%ec%97%b4%ed%95%9c-%ea%b0%80%ec%a7%80-%ec%97%90%ed%94%bc%ec%86%8c%eb%93%9c/
+홍영인: 다섯 극과 모놀로그,Art Sonje center,2025.0,Korean-only,"body, performance, ritual, women, labor, memory, sound, rhythm, animals
+",Body,solo exhibition,https://artsonje.org/exhibition/%ed%99%8d%ec%98%81%ec%9d%b8-%eb%8b%a4%ec%84%af-%ea%b7%b9%ea%b3%bc-%eb%aa%a8%eb%86%80%eb%a1%9c%ea%b7%b8/
+맑고 투명하고 깨어 있는,Art Sonje center,2025.0,Korean-only,"nature, human-nonhuman, ecology, climate crisis, water, landscape, solidarity, recovery",Nature,group exhibition,https://artsonje.org/exhibition/%eb%a7%91%ea%b3%a0-%ed%88%ac%eb%aa%85%ed%95%98%ea%b3%a0-%ea%b9%a8%ec%96%b4-%ec%9e%88%eb%8a%94/
+하종현 5975,Art Sonje center,2025.0,Korean-only,"early works, materiality, Korean modern history, Informel, urbanization, avant-garde",Time,retrospective exhibition,https://artsonje.org/exhibition/%ed%95%98%ec%a2%85%ed%98%84-5975/
+이끼바위쿠르르: 거꾸로 사는 돌,Art Sonje center,2024.0,Korean-only,"nature, ecology, stone, Maitreya, landscape, nonhuman, care, ruins",Nature,solo exhibition,https://artsonje.org/exhibition/%ec%9d%b4%eb%81%bc%eb%b0%94%ec%9c%84%ec%bf%a0%eb%a5%b4%eb%a5%b4-%ea%b1%b0%ea%be%b8%eb%a1%9c-%ec%82%ac%eb%8a%94-%eb%8f%8c/
+로드 무비: 1945년 이후 한·일 미술,MMCA,2026.0,Mixed,"Korea-Japan, exchange, relationship, network, solidarity, history, movement, postwar",Archive,historical exhibition,https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhFlag=1
+데이미언 허스트: 진실은 없어 그러나 모든 것은 가능하지,MMCA,2026.0,Korean-only,"death, life, immortality, body, medicine, science, belief, market",Body,solo exhibition,https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhFlag=1
+MMCA 서울 상설전 «한국현대미술 하이라이트»,MMCA,2026.0,Mixed,"collection, archive, Korean contemporary art, art history, permanent exhibition, museum collection",Archive,permanent exhibition,https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhFlag=1
+소멸의 시학: 삭는 미술에 대하여,MMCA,2026.0,Korean-only,"decay, decomposition, ecology, nonhuman, fermentation, preservation, anthropocentrism",Nature,group exhibition,https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhFlag=3
+아가몬 대백과: 외부 유출본,MMCA,2025.0,Korean-only,"life, ecosystem, rebirth, circulation, desire, cyber ecology, nature, vitality",Nature,solo exhibition,https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhFlag=3
+MMCA 다원예술 : 숲,MMCA,2025.0,Korean-only,"forest, plants, care, symbiosis, nonhuman, ecology, reciprocity, land",Nature,group exhibition,https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhFlag=3
+김창열,MMCA,2025.0,Korean-only,"memory, trauma, water drops, Korean modern history, retrospective, archive, painting",Memory,retrospective exhibition,https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhFlag=3
+기울인 몸들: 서로의 취약함이 만날 때,MMCA,2025.0,Korean-only,"body, vulnerability, disability, care, accessibility, inclusion, encounter, difference",Body,group exhibition,https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhFlag=3
+접속하는 몸: 아시아 여성 미술가들,MMCA,2024.0,Korean-only,"body, women artists, Asia, sexuality, performance, identity, feminism, connection",Body,group exhibition,https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhFlag=3
+서울시립 서서울미술관 개관 특별 미디어 소장품전 《서서울의 투명한 |청소년| 기계》,Seoul Museum of Art,2026.0,Korean-only,"body, youth, AI, machine, posthuman, nonhuman, algorithm, data",Body,collection exhibition,https://sema.seoul.go.kr/kr/whatson/exhibition/detail
+《우리의 시간은 여기서부터》 - <태각(胎刻)> ,Seoul Museum of Art,2026.0,Korean-only,"birth dream, memory, elderly generation, community, life story, language-image, workshop",Memory,project exhibition,https://sema.seoul.go.kr/kr/whatson/exhibition/detail
+"글짓, 쓰는 예술",Seoul Museum of Art,2026.0,Korean-only,"writing, text, language, narrative, creation, record, literature, artistic process",Archive,group exhibition,https://sema.seoul.go.kr/kr/whatson/exhibition/detail
+가나아트컬렉션 《기술의 저변: 경계에 선 장면들》,Seoul Museum of Art,2026.0,Korean-only,"technology, industrialization, urbanization, capitalism, media, labor, Korean society, realism",Time,group exhibition,https://sema.seoul.go.kr/kr/whatson/exhibition/detail
+2026 서울사진축제 《컴백홈》,Seoul Museum of Art,2026.0,Mixed,"home, photography, memory, relationship, belonging, movement, community, participation",Relationship,group exhibition,https://sema.seoul.go.kr/kr/whatson/exhibition/detail
+유휴공간 프로젝트 전시 《몸을 위한 간주곡 ― 소목장세미》,Seoul Museum of Art,2026.0,Korean-only,"body, senses, rest, sound, touch, smell, movement, community",Body,group exhibition,https://sema.seoul.go.kr/kr/whatson/exhibition/detail
+알렉사에게,Seoul Museum of Art,2026.0,Korean-only,"information, interface, AI, archive, data, search, index, alternative archive",Archive,project exhibition,https://sema.seoul.go.kr/kr/whatson/exhibition/detail
+사진집,Seoul Museum of Art,2026.0,Korean-only,"photography, home, memory, space, photobook, house, image",Memory,project exhibition,https://sema.seoul.go.kr/kr/whatson/exhibition/detail
+SeMA 프로젝트V_얄루,Seoul Museum of Art,2026.0,Mixed,"body, elderly woman, data, AI, urban memory, technology, resistance, metahuman",Body,project exhibition,https://sema.seoul.go.kr/kr/whatson/exhibition/detail
+우리의 시간은 여기서부터,Seoul Museum of Art,2026.0,Korean-only,"memory, local history, community, time, place, museum opening, narrative",Memory,project exhibition,https://sema.seoul.go.kr/kr/whatson/exhibition/detail
+유휴공간 전시 《지구울림 ― 헤르츠앤도우》,Seoul Museum of Art,2026.0,Korean-only,"sound, earth, ecology, nonhuman, listening, soundscape, environment, resonance",Nature,project exhibition,https://sema.seoul.go.kr/kr/whatson/exhibition/detail
+SeMA 공용공간 프로젝트 《영원히 교차하는 춤》,Seoul Museum of Art,2026.0,Korean-only,"nature, life, circulation, sensory experience, participation, body, space, material",Nature,public space project,
+서서울미술관 개관 특별전 SeMA 퍼포먼스 《호흡》,Seoul Museum of Art,2026.0,Korean-only,"breath, body, performance, air, environment, movement, voice, ecology",Body,performance exhibition / opening exhibition,
+근접한 세계,Seoul Museum of Art,2025.0,Korean-only,"proximity, UAE, migration, globalization, relation, cultural exchange, geography, hybridity",Relationship,group exhibition / international exchange exhibition,
+"예술가의 연구’ 시리즈 《미완의 식물지―이소요》, 《꽃 시계―안나 리들러》",Seoul Museum of Art,2025.0,Korean-only,"plants, botany, natural history, AI, nonhuman time, ecology, planetary sense, research",Nature,research-based exhibition,
+일렉트릭 쇼크,Seoul Museum of Art,2025.0,English-only,"electricity, AI, energy, climate crisis, technology, resource, Anthropocene, environment",Nature,group exhibition,
+사진이 할 수 있는 모든 것,Seoul Museum of Art,2025.0,Korean-only,"photography, image, media experiment, Korean contemporary art, avant-garde, visual language, archive",Image,collection exhibition / opening exhibition,
+"다시, 지구: 다른 감각으로 응답하기",Seoul Museum of Art,2025.0,Korean-only,"Anthropocene, earth, climate crisis, ecology, nonhuman, decentering human, planetary sense",Nature,group exhibition,
+"전국광: 쌓는 친구, 허무는 친구",Seoul Museum of Art,2025.0,Korean-only,"sculpture, retrospective, archive, mass, Korean abstract sculpture, materiality, artist research",Archive,retrospective / solo exhibition,
+광복80주년 가나아트컬렉션 특별전 《서시: 별을 노래하는 마음으로》,Seoul Museum of Art,2025.0,Korean-only,"liberation, memory, history, war, division, poetry, peace, archive",Memory,collection exhibition / special exhibition,
+스토리지 스토리 : 또 다른 이야기,Seoul Museum of Art,2025.0,Mixed,"storage, archive, collection, preservation, AI, memory, data, recontextualization",Archive,project exhibition,
+2025 타이틀 매치 《장영혜중공업 vs. 홍진훤: 중간 지대는 없다》,Seoul Museum of Art,2025.0,Korean-only,"community, conflict, politics, disagreement, text, image, social intervention, debate",Relationship,annual exhibition / two-person exhibition,
+감염-종,Seoul Museum of Art,2025.0,Korean-only,"infection, body, vulnerability, community, virus, bacteria, emotion, symbiosis",Body,curated exhibition / group exhibition,
+광채 光彩: 시작의 순간들,Seoul Museum of Art,2025.0,Korean-only,"photography, image, Korean photography history, medium, visual culture, art history, collection, research",Image,opening exhibition / photography exhibition,
+우리는 끊임없이 다른 강에 스며든다,Seoul Museum of Art,2025.0,Korean-only,"archive, manuscript, record, counter-memory, social memory, testimony, documentation, activism",Archive,group exhibition,
+떨어지는 눈,Seoul Museum of Art,2025.0,Korean-only,"painting, image, visuality, gaze, perception, digital image, contemporary painting",Image,group exhibition,
+말하는 머리들,Seoul Museum of Art,2025.0,Korean-only,"voice, action, invisible movement, public program, speech, participation, relation, institution",Relationship,group exhibition,
+건축의 장면,Seoul Museum of Art,2024.0,Korean-only,"architecture, space, video, time, movement, urban landscape, scene, perspective",Space,group exhibition,
+"어긋난 파동, 흔들리는 시간",ARKO Art Center,2026.0,Korean-only,"sound, noise, vibration, body, time, space, resonance, simultaneity",Body,two-person exhibition,https://www.arko.or.kr/artcenter/board/view/506?bid=266&page=&cid=717239&dateLocation=now&bid=266
+두껍아 두껍아: 집의 시간,ARKO Art Center,2026.0,Korean-only,"architecture, pavilion, home, space, site-specific, Korean Pavilion, Venice Biennale, house",Space,returning exhibition,https://www.arko.or.kr/artcenter/board/view/506?bid=266&cid=716948
+In Situ,ARKO Art Center,2026.0,English-only,"site, place, studio, residency, space, artist, location, in situ",Space,residency exhibition / group exhibition,https://www.arko.or.kr/artcenter/board/view/506?bid=266&cid=716808
+Hooks Brothers Studio: 멤피스 블랙 사운드 사진 기록,ARKO Art Center,2026.0,Mixed,"photography, archive, Black music, Memphis, sound, blues, soul, cultural history",Archive,photography exhibition / collection exhibition,https://www.arko.or.kr/artcenter/board/view/506?bid=266&cid=716692
+안티-셀프: 나에 반하여,ARKO Art Center,2025.0,Mixed,"self, medium, time, art history, transformation, critique, identity, contemporary art",Time,group exhibition / mid-career artist exhibition,https://www.arko.or.kr/artcenter/board/view/507?bid=266&page=&cid=716485&dateLocation=before&bid=266
+드리프팅 스테이션 – 찬미와 애도에 관한 행성간 다종 오페라,ARKO Art Center,2025.0,Mixed,"post-Anthropocene, planetary poetics, multispecies, nonhuman, ecology, mourning, care, solidarity",Nature,curatorial project / group exhibition,https://www.arko.or.kr/artcenter/board/view/507?bid=266&page=&cid=716287&dateLocation=before&bid=266
+"미니버스, 오르트 구름, ㄷ떨:안녕인사",ARKO Art Center,2025.0,Mixed,"archive, Insa Art Space, legacy, media archive, criticism, young artists, memory, institution",Archive,archive exhibition / institutional history exhibition,https://www.arko.or.kr/artcenter/board/view/507?bid=266&page=2&cid=716049&dateLocation=before&bid=266
+구정아ㅡ오도라마 시티,ARKO Art Center,2025.0,Mixed,"smell, scent, body, memory, synesthesia, space, invisible, encounter",Body, solo exhibition / returning exhibition,
+인투 더 리듬: 스코어로부터 접촉지대로,ARKO Art Center,2024.0,Mixed,"rhythm, score, contact zone, participation, community, care, performance, relation",Relationship,collaborative exhibition / group exhibition,https://www.arko.or.kr/artcenter/board/view/507?bid=266&page=2&cid=715518&dateLocation=before&bid=266
+2024 ARKO 영아티스트데이 청년예술가 포트폴리오 전시,ARKO Art Center,2024.0,Mixed,"young artists, portfolio, data, metadata, self-reference, context, archive, transformation",Archive,portfolio exhibition,https://www.arko.or.kr/artcenter/board/view/507?bid=266&page=2&cid=715481&dateLocation=before&bid=266
+2024 아르코미술관 창작산실 협력전시 《집(ZIP)》,ARKO Art Center,2024.0,Mixed,"sculpture, materiality, form, women sculptors, medium, making, texture, generation",Image,group exhibition,
+2024 아르코미술관 창작산실 협력전시 《속삭이는 대지》,ARKO Art Center,2024.0,Korean-only,"Korean War, civilian bombing, memory, archive, massacre site, land, ecology, testimony",Memory,multidisciplinary exhibition / research-based exhibition,https://www.arko.or.kr/artcenter/board/view/507?bid=266&page=3&cid=715100&dateLocation=before&bid=266
+2024 아르코미술관x지역문화재단 협력기획전 《여기 닿은 노래》,ARKO Art Center,2024.0,Korean-only,"body, disability, accessibility, voice, movement, difference, care, listening",Body,group exhibition / accessibility-focused exhibition,https://www.arko.or.kr/artcenter/board/view/507?bid=266&page=3&cid=714856&dateLocation=before&bid=266
+2023 아르코미술관 50주년전 《어디로 주름이 지나가는가》,ARKO Art Center,2023.0,Korean-only,"archive, museum history, network, relation, artist exchange, trace, institution, future",Archive,anniversary exhibition / archive exhibition,https://www.arko.or.kr/artcenter/board/view/507?bid=266&page=3&cid=714467&dateLocation=before&bid=266
+,,,,,,,
